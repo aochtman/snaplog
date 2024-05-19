@@ -1,4 +1,4 @@
-package com.example.postoffline;
+package com.example.snaplog;
 
 public class Item {
     private int id;

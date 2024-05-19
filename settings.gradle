@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PostOffline"
+rootProject.name = "Snaplog"
 include ':app'

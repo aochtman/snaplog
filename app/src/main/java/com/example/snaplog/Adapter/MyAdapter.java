@@ -1,11 +1,9 @@
-package com.example.postoffline.Adapter;
+package com.example.snaplog.Adapter;
 
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -18,10 +16,10 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.postoffline.DatabaseHelper;
-import com.example.postoffline.EditItemActivity;
-import com.example.postoffline.Item;
-import com.example.postoffline.R;
+import com.example.snaplog.DatabaseHelper;
+import com.example.snaplog.EditItemActivity;
+import com.example.snaplog.Item;
+import com.example.snaplog.R;
 
 import java.text.DecimalFormat;
 import java.text.ParseException;

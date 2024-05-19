@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.postoffline'
+    namespace 'com.example.snaplog'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.postoffline"
+        applicationId "com.example.snaplog"
         minSdk 24
         targetSdk 34
         versionCode 1

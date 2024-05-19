@@ -1,4 +1,4 @@
-package com.example.postoffline;
+package com.example.snaplog;
 
 import org.junit.Test;
 

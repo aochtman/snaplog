@@ -1,4 +1,4 @@
-package com.example.postoffline;
+package com.example.snaplog;
 
 import android.content.ContentValues;
 import android.content.Context;

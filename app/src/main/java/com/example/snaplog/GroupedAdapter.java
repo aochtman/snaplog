@@ -1,7 +1,6 @@
-package com.example.postoffline;
+package com.example.snaplog;
 
 import android.app.Activity;
-import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -10,7 +9,7 @@ import android.widget.TextView;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.postoffline.Adapter.MyAdapter;
+import com.example.snaplog.Adapter.MyAdapter;
 
 import java.util.List;
 public class GroupedAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
